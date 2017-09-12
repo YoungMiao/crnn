@@ -31,12 +31,12 @@ GPU版在环境变量中添加
 
 运行`/contrib/crnn/demo.py`
 
-原始图片为: ![](./image/image33.jpg)
+原始图片为: ![](./image/image2.jpg)
 
- ![](./image/image34.jpg)
+ ![](./image/image3.jpg)
 
 
-识别结果为： ![](./image/image32.jpg)
+识别结果为： ![](./image/image1.jpg)
 
     # 加载模型
     model_path = './samples/netCRNN_9_112580.pth'
